@@ -3,3 +3,6 @@
 
 # generated
 /out
+/build
+/gradle
+.gradle
